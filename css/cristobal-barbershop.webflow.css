@@ -1,0 +1,2897 @@
+body {
+  background-color: #000;
+  font-family: Poppins, sans-serif;
+  color: #fff;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 300;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 40px;
+  font-family: Tinos, sans-serif;
+  font-size: 120px;
+  line-height: 100px;
+  font-weight: 400;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 35px;
+  font-family: Tinos, sans-serif;
+  font-size: 56px;
+  line-height: 66px;
+  font-weight: 400;
+}
+
+h3 {
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-family: Tinos, sans-serif;
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 400;
+}
+
+h4 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: Tinos, sans-serif;
+  font-size: 32px;
+  line-height: 42px;
+  font-weight: 400;
+}
+
+h5 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-family: Tinos, sans-serif;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 400;
+}
+
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Tinos, sans-serif;
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #fff;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+ol {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-left: 40px;
+}
+
+li {
+  margin-bottom: 30px;
+}
+
+blockquote {
+  margin-bottom: 20px;
+  padding: 0px 0px 0px 140px;
+  border-left: 5px none #e2e2e2;
+  background-image: url('../images/quote_img.png');
+  background-position: 0px 10px;
+  background-size: 120px;
+  background-repeat: no-repeat;
+  font-size: 120px;
+  line-height: 130px;
+  font-weight: 400;
+}
+
+figure {
+  margin-bottom: 10px;
+}
+
+.template-banner {
+  background-color: #000;
+}
+
+.top-navbar {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.main-content {
+  width: 80%;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.main-content.style-banner-content {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.main-content.style-body-content {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.main-content.footer-content {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.main-content.banner-content {
+  padding-top: 200px;
+  padding-bottom: 20px;
+}
+
+.main-content.services-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.our-barbers-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.hours-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.regulations-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.thank-you-content {
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.main-content._404-content {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.main-content.courses-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.becoming-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.learning-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.appointment-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.contact-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.testimonial-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.main-content.template-page-content {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.center-block {
+  text-align: center;
+}
+
+.paragraph-big {
+  font-size: 22px;
+  line-height: 34px;
+}
+
+.style-guide-body {
+  border-top: 1px solid #fff;
+  background-color: #000;
+}
+
+.heading-holder {
+  margin-bottom: 100px;
+}
+
+.style-over-title {
+  width: 50%;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #b73d25;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.paragraph-holder {
+  margin-bottom: 100px;
+}
+
+.inner-title {
+  display: inline-block;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #fff;
+}
+
+.paragraph-wrapper {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.paragraph-small {
+  font-family: Poppins, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.paragraph-small.hours-text {
+  margin-bottom: 5px;
+}
+
+.emphasis-holder {
+  margin-bottom: 100px;
+}
+
+.emphasis-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.figure-holder {
+  margin-bottom: 100px;
+}
+
+.block-quote-holder {
+  margin-bottom: 100px;
+}
+
+.rich-block-holder {
+  margin-bottom: 100px;
+}
+
+.list-holder {
+  margin-bottom: 100px;
+}
+
+.list-wrapper {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.list-item-one {
+  margin-bottom: 10px;
+  padding-left: 25px;
+  background-image: url('../images/dot_list_1dot_list.png');
+  background-position: 0px 9px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-size: 14px;
+}
+
+.text-links {
+  margin-bottom: 100px;
+}
+
+.link-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.link-inner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 48%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.small-link {
+  color: #fff;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.small-link:hover {
+  text-decoration: underline;
+}
+
+.small-link.footer-contact {
+  margin-top: 30px;
+  text-transform: lowercase;
+}
+
+.buttons {
+  margin-bottom: 100px;
+}
+
+.button-default {
+  padding: 12px 60px 12px 20px;
+  border-bottom: 1px solid #fff;
+  background-color: transparent;
+  background-image: url('../images/arrow_button2x_1arrow_button@2x.png');
+  background-position: 95% 55%;
+  background-size: 26px;
+  background-repeat: no-repeat;
+  -webkit-transition: background-position 500ms ease;
+  transition: background-position 500ms ease;
+  font-weight: 400;
+  text-transform: none;
+}
+
+.button-default:hover {
+  background-position: 90% 55%;
+  text-decoration: none;
+}
+
+.color-wrapper {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.color-1 {
+  width: 100%;
+  height: 50px;
+  background-color: #e0872a;
+}
+
+.color-2 {
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+}
+
+.color-3 {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #fff;
+  background-color: #000;
+}
+
+.color-4 {
+  width: 100%;
+  height: 50px;
+  background-color: #b73d25;
+}
+
+.footer {
+  background-color: #000;
+  text-align: center;
+}
+
+.footer-text {
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.hero {
+  position: relative;
+  background-color: #000;
+}
+
+.hero.hero-barbershop {
+  background-image: url('../images/barber_banner_img.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero.hero-thank-you {
+  background-image: url('../images/thank_you_bg.jpg');
+  background-position: 100% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero.hero-404 {
+  background-image: url('../images/404_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero.hero-academy {
+  background-image: url('../images/academy_banner_img.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.logo-box {
+  position: absolute;
+  left: 0%;
+  top: 100px;
+  right: auto;
+  bottom: 0%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 120px;
+  height: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-right: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.logo-box.black {
+  top: 0px;
+  background-color: #000;
+}
+
+.header {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100px;
+  padding-left: 119px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.under-heading {
+  margin-bottom: 70px;
+}
+
+.scroll-more {
+  display: block;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.menu-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 20%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-left: 1px solid hsla(0, 0%, 100%, 0.32);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.menu-link.menu-link-navigation {
+  border-right: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.menu-link.menu-link-phone {
+  border-right: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.menu-link.menu-link-phone.mobile-link {
+  display: none;
+}
+
+.menu-block {
+  display: -ms-grid;
+  display: grid;
+  width: 20%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  justify-items: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 15px;
+  grid-row-gap: 15px;
+  -ms-grid-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+  border-left: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.menu-block.menu-block-navigation {
+  border-left: 1px solid hsla(0, 0%, 100%, 0.32);
+}
+
+.menu-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  max-width: 60%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.social-link {
+  width: 20px;
+  text-align: center;
+}
+
+.service {
+  background-color: #000;
+}
+
+.service-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 90px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.service-wrapper.mirror {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+
+.service-wrapper.no-margin {
+  margin-bottom: 0px;
+}
+
+.service-text {
+  width: 45%;
+}
+
+.service-image {
+  width: 45%;
+}
+
+.service-content {
+  padding-left: 100px;
+  background-image: url('../images/red_line_1red_line.png');
+  background-position: 0px 15px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.sides-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.side-right {
+  display: -ms-grid;
+  display: grid;
+  width: 60%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.side-left {
+  width: 35%;
+}
+
+.side-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+.side-box.side-box-align-left {
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.service-heading {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.service-price {
+  color: #e0872a;
+  font-weight: 400;
+}
+
+.our-barbers {
+  background-color: #000;
+}
+
+.our-trainers-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 60px;
+  grid-row-gap: 60px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.our-trainersbox {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.our-trainers-info {
+  width: 30%;
+  margin-top: 10%;
+  margin-left: -5%;
+}
+
+.barber-name {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-bottom: 4px solid #e0872a;
+}
+
+.barber-tag {
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.hours-location {
+  background-color: #000;
+  background-image: url('../images/hours_location.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hours-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.hours-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 45%;
+  padding: 40px 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #000;
+  text-align: center;
+}
+
+.hours-heading {
+  margin-top: 20px;
+}
+
+.regulations {
+  position: relative;
+  background-color: #000;
+}
+
+.regulations-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.regulations-left {
+  width: 30%;
+}
+
+.regulations-image {
+  width: 60%;
+}
+
+.footer-small-links {
+  display: -ms-grid;
+  display: grid;
+  width: 40%;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.footer-contact-links {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 60px;
+}
+
+.contact-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 33.33%;
+  padding: 15px 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.contact-box.middle {
+  border-right: 1px solid #fff;
+  border-left: 1px solid #fff;
+}
+
+.footer-contact {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.navigaion-bottom {
+  position: relative;
+  z-index: 20;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100px;
+  padding-left: 119px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.32);
+  background-color: #000;
+}
+
+.error-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 10vh;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.error-text {
+  font-family: Tinos, sans-serif;
+  font-size: 500px;
+  font-weight: 400;
+}
+
+.error-image {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.utility-heading {
+  font-size: 100px;
+}
+
+.home-banner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  margin-left: 120px;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.home-box-link {
+  width: 50%;
+  padding-right: 20px;
+  padding-left: 20px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: -webkit-filter 500ms ease;
+  transition: -webkit-filter 500ms ease;
+  transition: filter 500ms ease;
+  transition: filter 500ms ease, -webkit-filter 500ms ease;
+  text-transform: none;
+}
+
+.home-box-link:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+  text-decoration: none;
+}
+
+.home-box-link.home-barbershop-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 35vh;
+  padding-bottom: 35vh;
+  background-image: url('https://i.postimg.cc/65dt5DBH/fad5edf1-a4f0-4efa-8e62-c0de4c495f52.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.home-box-link.home-barbershop-link:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.home-box-link.home-academy-link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 35vh;
+  padding-bottom: 35vh;
+  background-image: url('../images/home_img2.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.home-heading {
+  width: auto;
+  margin-bottom: 0px;
+  font-size: 80px;
+}
+
+.courses {
+  background-color: #000;
+  background-image: url('../images/courses_workshops.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.courses-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.course-box {
+  padding: 60px 60px 20px;
+  background-color: #000;
+}
+
+.course-inner {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding: 40px;
+  border: 1px solid #fff;
+}
+
+.no-margin {
+  margin-bottom: 0px;
+}
+
+.becoming {
+  background-color: #000;
+}
+
+.becoming-heading {
+  margin-bottom: 25px;
+}
+
+.learning {
+  background-color: #000;
+  background-image: url('../images/learning_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.appointments {
+  background-color: #000;
+  background-image: url('../images/appointment_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.appointment-box {
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 60px;
+  background-color: #000;
+  text-align: center;
+}
+
+.contact {
+  background-color: #000;
+  background-image: url('../images/contact_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.contact-form {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  text-align: left;
+}
+
+.input-field {
+  height: 56px;
+  margin-bottom: 0px;
+  border: 1px solid #fff;
+  background-color: transparent;
+  color: #eee;
+}
+
+.input-field:focus {
+  border-color: #fff;
+}
+
+.input-field::-webkit-input-placeholder {
+  color: #fff;
+  font-weight: 400;
+}
+
+.input-field:-ms-input-placeholder {
+  color: #fff;
+  font-weight: 400;
+}
+
+.input-field::-ms-input-placeholder {
+  color: #fff;
+  font-weight: 400;
+}
+
+.input-field::placeholder {
+  color: #fff;
+  font-weight: 400;
+}
+
+.input-field.input-password {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.area-field {
+  min-height: 100px;
+  margin-bottom: 0px;
+  border: 1px solid #fff;
+  background-color: transparent;
+}
+
+.area-field:focus {
+  border-color: #fff;
+}
+
+.area-field::-webkit-input-placeholder {
+  color: #ffe3e3;
+  font-weight: 400;
+}
+
+.area-field:-ms-input-placeholder {
+  color: #ffe3e3;
+  font-weight: 400;
+}
+
+.area-field::-ms-input-placeholder {
+  color: #ffe3e3;
+  font-weight: 400;
+}
+
+.area-field::placeholder {
+  color: #ffe3e3;
+  font-weight: 400;
+}
+
+.form-block {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.appointment-form {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.regulations-popup {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  z-index: 9999;
+  display: none;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.regulations-inner {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 60px 40px 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #fff;
+  background-color: #000;
+}
+
+.close-regulations {
+  position: absolute;
+  left: auto;
+  top: 20px;
+  right: 20px;
+  bottom: auto;
+  text-transform: capitalize;
+}
+
+.testimonial {
+  background-color: #000;
+  background-image: url('../images/testimonial_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-nav {
+  margin-bottom: -60px;
+  font-size: 10px;
+}
+
+.arrow-image {
+  display: block;
+}
+
+.left-arrow {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 44px;
+  height: 34px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.right-arrow {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 44px;
+  height: 34px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.slider-mask {
+  width: 60%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.slider {
+  display: block;
+  height: 100%;
+  background-color: transparent;
+}
+
+.slide-item {
+  padding: 40px 80px;
+  background-color: #000;
+  background-image: url('../images/quote_img.png'), url('../images/quote_img.png');
+  background-position: 75% 40%, 25% 20%;
+  background-size: auto, auto;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.testimonial-image {
+  display: block;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+
+.testimonial-name {
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+
+.testimonial-text {
+  margin-bottom: 25px;
+}
+
+.side-right-services {
+  width: 60%;
+}
+
+.service-boxes {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.service-box-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px 20px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+.collection-list-wrapper {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.our-barbers-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.our-barbers-info {
+  width: 30%;
+  margin-top: 10%;
+  margin-left: -5%;
+}
+
+.our-barbers-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 60px;
+  grid-row-gap: 60px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.link-logo {
+  width: 80px;
+}
+
+.license-list {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.license-item {
+  margin-right: 15px;
+  margin-bottom: 0px;
+}
+
+.utility-page-wrap {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  max-height: 100%;
+  max-width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.utility-page-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+}
+
+.utility-page-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.padlock {
+  display: block;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+}
+
+.open-link {
+  display: none;
+}
+
+.menu {
+  display: none;
+}
+
+.template-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  grid-auto-columns: 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.template-text {
+  width: 30%;
+  margin-left: 5%;
+}
+
+.template-image {
+  width: 50%;
+}
+
+.testimonial-wrapper {
+  max-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5%;
+  background-color: #000;
+  background-image: url('../images/quote_img.png');
+  background-position: 20px 20px;
+  background-size: 130px;
+  background-repeat: no-repeat;
+}
+
+.service-template-wrapper {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.template-testimonial-page {
+  background-image: url('../images/testimonial_bg.jpg');
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer-list {
+  display: -ms-grid;
+  display: grid;
+  margin-top: 59px;
+  margin-bottom: 0px;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 10px;
+  -ms-grid-columns: 1fr;
+  grid-template-columns: 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+
+.footer-list-item {
+  margin-bottom: 0px;
+}
+
+.footer-link {
+  text-transform: none;
+}
+
+@media screen and (max-width: 991px) {
+  h1 {
+    font-size: 90px;
+  }
+
+  h2 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  blockquote {
+    font-size: 90px;
+    line-height: 100px;
+  }
+
+  .main-content.style-banner-content {
+    padding-bottom: 80px;
+  }
+
+  .main-content.footer-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.banner-content {
+    padding-top: 100px;
+  }
+
+  .main-content.services-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.our-barbers-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.hours-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.regulations-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.thank-you-content {
+    padding-top: 60px;
+    padding-bottom: 100px;
+  }
+
+  .main-content._404-content {
+    padding-top: 60px;
+  }
+
+  .main-content.courses-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.becoming-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.learning-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.appointment-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.contact-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.testimonial-content {
+    padding-top: 90px;
+  }
+
+  .logo-box {
+    position: static;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-right-style: none;
+  }
+
+  .logo-box.black {
+    background-color: transparent;
+  }
+
+  .header {
+    height: auto;
+    padding-left: 0px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .under-heading {
+    margin-bottom: 40px;
+  }
+
+  .scroll-more {
+    width: 90px;
+    margin-top: 60px;
+  }
+
+  .menu-link.menu-link-navigation {
+    width: 35%;
+  }
+
+  .menu-link.menu-link-phone {
+    width: 100%;
+    height: 60px;
+    border-right-style: none;
+    border-left-style: none;
+  }
+
+  .menu-link.menu-link-phone.mobile-link {
+    display: none;
+  }
+
+  .menu-block {
+    border-right: 1px solid hsla(0, 0%, 100%, 0.32);
+  }
+
+  .menu-block.menu-block-navigation {
+    width: 35%;
+  }
+
+  .menu-wrapper {
+    height: 70px;
+    max-width: 100%;
+    border-top: 1px solid hsla(0, 0%, 100%, 0.32);
+  }
+
+  .service-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .service-wrapper.mirror {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .service-text {
+    width: 100%;
+    margin-top: 40px;
+  }
+
+  .service-image.left {
+    width: 100%;
+  }
+
+  .service-image.right {
+    width: 100%;
+  }
+
+  .sides-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .side-right {
+    width: 100%;
+  }
+
+  .side-left {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .our-trainers-wrapper {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .hours-box {
+    width: 48%;
+  }
+
+  .regulations-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .regulations-left {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .regulations-image {
+    width: 100%;
+  }
+
+  .footer-small-links {
+    width: 100%;
+  }
+
+  .contact-box {
+    padding-bottom: 0px;
+  }
+
+  .footer-contact {
+    font-size: 14px;
+  }
+
+  .navigaion-bottom {
+    padding-left: 0px;
+  }
+
+  .error-text {
+    font-size: 340px;
+  }
+
+  .error-image {
+    width: 200px;
+  }
+
+  .utility-heading {
+    font-size: 60px;
+    line-height: 70px;
+  }
+
+  .utility-over-title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .home-banner {
+    margin-left: 0px;
+  }
+
+  .home-box-link.home-barbershop-link {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+  }
+
+  .home-box-link.home-academy-link {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+  }
+
+  .home-heading {
+    font-size: 60px;
+    line-height: 70px;
+  }
+
+  .course-box {
+    padding: 20px 20px 0px;
+  }
+
+  .course-inner {
+    padding: 20px;
+  }
+
+  .appointment-box {
+    padding: 40px;
+  }
+
+  .contact-form {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .form-block {
+    width: 100%;
+  }
+
+  .left-arrow {
+    left: -10%;
+  }
+
+  .right-arrow {
+    right: -10%;
+  }
+
+  .slider-mask {
+    width: 100%;
+  }
+
+  .slide-item {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .side-right-services {
+    width: 100%;
+  }
+
+  .our-barbers-box {
+    width: 100%;
+  }
+
+  .our-barbers-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .link-logo {
+    width: 60px;
+  }
+
+  .logo-link {
+    width: 60px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+
+  h2 {
+    font-size: 45px;
+    line-height: 55px;
+  }
+
+  h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  h4 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  blockquote {
+    font-size: 60px;
+    line-height: 70px;
+  }
+
+  .main-content.style-banner-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.style-body-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.footer-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.banner-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.services-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.our-barbers-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.hours-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.regulations-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.thank-you-content {
+    padding-top: 40px;
+    padding-bottom: 60px;
+  }
+
+  .main-content._404-content {
+    padding-top: 40px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.courses-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.becoming-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.learning-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.appointment-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.contact-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .main-content.testimonial-content {
+    padding-top: 60px;
+    padding-bottom: 90px;
+  }
+
+  .main-content.template-page-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .heading-holder {
+    margin-bottom: 60px;
+  }
+
+  .style-over-title {
+    width: 100%;
+  }
+
+  .paragraph-holder {
+    margin-bottom: 60px;
+  }
+
+  .emphasis-holder {
+    margin-bottom: 60px;
+  }
+
+  .figure-holder {
+    margin-bottom: 60px;
+  }
+
+  .block-quote-holder {
+    margin-bottom: 60px;
+  }
+
+  .rich-block-holder {
+    margin-bottom: 60px;
+  }
+
+  .list-holder {
+    margin-bottom: 60px;
+  }
+
+  .list-wrapper {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .text-links {
+    margin-bottom: 60px;
+  }
+
+  .small-link.footer-contact {
+    margin-top: 10px;
+  }
+
+  .buttons {
+    margin-bottom: 60px;
+  }
+
+  .color-wrapper {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .logo-box {
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: auto 1fr auto;
+    grid-template-columns: auto 1fr auto;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+  }
+
+  .logo-box.black {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .header {
+    display: none;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-bottom-style: none;
+  }
+
+  .scroll-more {
+    display: none;
+  }
+
+  .menu-link.menu-link-navigation {
+    width: 50%;
+  }
+
+  .menu-link.menu-link-phone {
+    width: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  .menu-link.menu-link-phone.mobile-link {
+    display: block;
+    height: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .menu-block.menu-block-navigation {
+    width: 50%;
+    border-left-style: none;
+  }
+
+  .service-wrapper {
+    margin-bottom: 60px;
+  }
+
+  .service-content {
+    padding-top: 38px;
+    padding-left: 0px;
+    background-position: 0px 0px;
+  }
+
+  .side-right {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .our-trainersbox {
+    position: relative;
+  }
+
+  .our-trainers-info {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+  }
+
+  .hours-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .hours-box {
+    width: 100%;
+  }
+
+  .hours-box.hours-box-top {
+    margin-bottom: 40px;
+  }
+
+  .footer-contact-links {
+    margin-top: 40px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .contact-box {
+    width: 100%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .contact-box.middle {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-right-style: none;
+    border-left-style: none;
+  }
+
+  .footer-contact {
+    margin-top: 10px;
+  }
+
+  .error-wrapper {
+    margin-top: 5vh;
+  }
+
+  .error-text {
+    font-size: 220px;
+  }
+
+  .error-image {
+    width: 140px;
+  }
+
+  .utility-heading {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .home-box-link.home-barbershop-link {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+  }
+
+  .home-box-link.home-academy-link {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+  }
+
+  .home-heading {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .courses-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .course-box {
+    width: 100%;
+  }
+
+  .regulations-inner {
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+
+  .service-boxes {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .our-barbers-box {
+    position: relative;
+  }
+
+  .our-barbers-info {
+    position: absolute;
+    left: 20px;
+    top: auto;
+    right: auto;
+    bottom: 20px;
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+  }
+
+  .regulations-list {
+    padding-left: 20px;
+  }
+
+  .open-link {
+    display: block;
+  }
+
+  .menu {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    z-index: 9999;
+    display: none;
+    height: 100vh;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #000;
+  }
+
+  .menu-inner {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .close-menu {
+    position: absolute;
+    left: auto;
+    top: 50px;
+    right: 20px;
+    bottom: auto;
+  }
+
+  .mobile-menu {
+    margin-bottom: 25px;
+    border-bottom: 3px solid #fff;
+    -webkit-transition: border-color 300ms ease;
+    transition: border-color 300ms ease;
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+  }
+
+  .mobile-menu:hover {
+    border-bottom-color: #000;
+    text-decoration: none;
+  }
+
+  .mobile-menu.no-margin {
+    margin-bottom: 0px;
+  }
+
+  .mobile-logo {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    right: auto;
+    bottom: auto;
+  }
+
+  .template-text {
+    width: 50%;
+  }
+
+  .simple-logo {
+    width: 60px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  h1 {
+    font-size: 55px;
+    line-height: 65px;
+  }
+
+  h2 {
+    font-size: 35px;
+    line-height: 45px;
+  }
+
+  h4 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  h5 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  blockquote {
+    padding-left: 40px;
+    background-size: 94px;
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .main-content.style-banner-content {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.style-body-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.banner-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.services-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.our-barbers-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.hours-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.regulations-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.thank-you-content {
+    padding-bottom: 40px;
+  }
+
+  .main-content._404-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.courses-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.becoming-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.learning-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.appointment-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .main-content.testimonial-content {
+    padding-top: 40px;
+  }
+
+  .emphasis-wrapper {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .list-wrapper {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .button-default {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .color-wrapper {
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .menu-link.menu-link-navigation {
+    width: 100%;
+    height: 50%;
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.32);
+    border-right-style: none;
+    border-left-style: none;
+  }
+
+  .menu-link.menu-link-phone.mobile-link {
+    font-size: 13px;
+  }
+
+  .menu-block.menu-block-navigation {
+    width: 100%;
+    height: 50%;
+  }
+
+  .side-right {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .side-box.side-box-align-left {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .footer-small-links {
+    -ms-grid-columns: auto auto;
+    grid-template-columns: auto auto;
+  }
+
+  .navigaion-bottom {
+    height: 200px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .error-text {
+    font-size: 130px;
+  }
+
+  .error-image {
+    width: 80px;
+  }
+
+  .home-banner {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .home-box-link.home-barbershop-link {
+    width: 100%;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+  }
+
+  .home-box-link.home-academy-link {
+    width: 100%;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+  }
+
+  .course-box {
+    width: 100%;
+  }
+
+  .appointment-box {
+    padding: 20px;
+  }
+
+  .left-arrow {
+    width: 25px;
+  }
+
+  .right-arrow {
+    width: 25px;
+  }
+
+  .slide-item {
+    background-image: url('../images/quote_img.png');
+    background-position: 20px 20px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+  }
+
+  .service-boxes {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
+  .service-box-wrapper {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .heading-hero {
+    margin-bottom: 30px;
+    
+  }
+
+  .button-inner {
+    width: 100%;
+  }
+
+  .mobile-menu {
+    margin-bottom: 15px;
+    border-bottom-width: 1.5px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .template-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+  }
+
+  .template-text {
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+
+  .template-image {
+    width: 100%;
+  }
+
+  .service-template-wrapper {
+    width: 100%;
+  }
+}
+
+#Area-Appointment.w-node-_2178d053-bb40-66b6-a83b-cd0cab298a83-0ccf6cf8 {
+  -ms-grid-column-span: 2;
+  grid-column-end: 3;
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 3;
+  -ms-grid-row: 2;
+  grid-row-start: 2;
+}
+
+#w-node-f545127e-1a64-d5de-d5bb-2d90b07ca4ad-0ccf6cf8 {
+  -ms-grid-column-span: 2;
+  grid-column-end: 3;
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 4;
+  -ms-grid-row: 3;
+  grid-row-start: 3;
+}
+
+#Textarea-Contact.w-node-cf879478-58a9-129f-af1f-f88fdfa30e0b-0ccf6cf8 {
+  -ms-grid-column-span: 3;
+  grid-column-end: 4;
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 3;
+  -ms-grid-row: 2;
+  grid-row-start: 2;
+}
+
+#w-node-_6ca82a7c-4b6c-830a-2045-a6c3adb0048a-0ccf6cf8 {
+  -ms-grid-column: span 3;
+  grid-column-start: span 3;
+  -ms-grid-column-span: 3;
+  grid-column-end: span 3;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column-align: center;
+  justify-self: center;
+}
+
+@media screen and (max-width: 991px) {
+  #Name-Contact.w-node-_7709560c-50c6-3a45-8940-aa24c36d3ac9-0ccf6cf8 {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #Phone-Contact.w-node-cc9ec572-8fdb-df83-e3d0-860e5e845c43-0ccf6cf8 {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 3;
+    -ms-grid-row: 2;
+    grid-row-start: 2;
+  }
+
+  #Email-Contact.w-node-_7709560c-50c6-3a45-8940-aa24c36d3acc-0ccf6cf8 {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 4;
+    -ms-grid-row: 3;
+    grid-row-start: 3;
+  }
+
+  #Textarea-Contact.w-node-cf879478-58a9-129f-af1f-f88fdfa30e0b-0ccf6cf8 {
+    -ms-grid-column-span: 3;
+    grid-column-end: 3;
+    -ms-grid-row: 4;
+    grid-row-start: 4;
+    -ms-grid-row-span: 1;
+    grid-row-end: 5;
+  }
+
+  #w-node-_6ca82a7c-4b6c-830a-2045-a6c3adb0048a-0ccf6cf8 {
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #w-node-_63403ca4-8a4c-0c48-1ac3-69dab90da3fd-3acf6cf7 {
+    -ms-grid-column-align: center;
+    justify-self: center;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  #w-node-_12e5574d-1b56-0037-1a95-3dac72c6bd10-3acf6cf7 {
+    -ms-grid-column-align: end;
+    justify-self: end;
+  }
+
+  #w-node-_2987d044-7606-a290-e795-6b8a1095fe3a-0ccf6cf8 {
+    -ms-grid-column-align: start;
+    justify-self: start;
+  }
+
+  #w-node-_934d4894-deaf-af37-36ac-13be101b55ed-0ccf6cf8 {
+    -ms-grid-column-align: center;
+    justify-self: center;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  #w-node-_9f5a5c53-56f8-7310-ee04-9c130b1ec2c3-0ccf6cf8 {
+    -ms-grid-column-align: end;
+    justify-self: end;
+  }
+
+  #Name-Appointment.w-node-eb448439-656e-00b1-f5e2-82fc04e7071f-0ccf6cf8 {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #Email-Appointment.w-node-eb448439-656e-00b1-f5e2-82fc04e70722-0ccf6cf8 {
+    -ms-grid-column: span 2;
+    grid-column-start: span 2;
+    -ms-grid-column-span: 2;
+    grid-column-end: span 2;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #Area-Appointment.w-node-_2178d053-bb40-66b6-a83b-cd0cab298a83-0ccf6cf8 {
+    -ms-grid-row: 3;
+    grid-row-start: 3;
+    -ms-grid-row-span: 1;
+    grid-row-end: 4;
+  }
+
+  #w-node-f545127e-1a64-d5de-d5bb-2d90b07ca4ad-0ccf6cf8 {
+    -ms-grid-row: 4;
+    grid-row-start: 4;
+    -ms-grid-row-span: 1;
+    grid-row-end: 5;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  #w-node-_63403ca4-8a4c-0c48-1ac3-69dab90da3fd-3acf6cf7 {
+    -ms-grid-column-align: center;
+    justify-self: center;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+
+  #w-node-_12e5574d-1b56-0037-1a95-3dac72c6bd10-3acf6cf7 {
+    -ms-grid-column-align: end;
+    justify-self: end;
+  }
+}
+
