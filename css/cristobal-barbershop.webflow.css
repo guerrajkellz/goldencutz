@@ -1032,9 +1032,10 @@ figure {
   padding-top: 35vh;
   padding-bottom: 35vh;
   background-image: url('https://i.postimg.cc/65dt5DBH/fad5edf1-a4f0-4efa-8e62-c0de4c495f52.jpg');
-  background-position: 50% 0%;
+  background-position: 70% 0%;
   background-size: cover;
   background-repeat: no-repeat;
+  width: 70%;
 }
 
 .home-box-link.home-barbershop-link:hover {
@@ -1050,7 +1051,7 @@ figure {
   padding-top: 35vh;
   padding-bottom: 35vh;
   background-image: url('../images/home_img2.jpg');
-  background-position: 50% 0%;
+  background-position: 30% 0%;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2625,8 +2626,8 @@ figure {
 
   .home-box-link.home-barbershop-link {
     width: 100%;
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
   }
 
   .home-box-link.home-academy-link {
